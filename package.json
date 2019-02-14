@@ -1,0 +1,11 @@
+{
+  "name": "njajal",
+  "version": "1.0.0",
+  "description": "Digawe njajal opo ae",
+  "main": "index.js",
+  "author": "Mohamad Saiful <fren_yaif@yahoo.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.8.1"
+  }
+}
